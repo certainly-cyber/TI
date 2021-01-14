@@ -1,0 +1,26 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+SHELL = cmd.exe
+
+# Add inputs and outputs from these tool invocations to the build variables 
+C_SRCS += \
+../ADS1118/ADS1118.c 
+
+C_DEPS += \
+./ADS1118/ADS1118.d 
+
+OBJS += \
+./ADS1118/ADS1118.obj 
+
+OBJS__QUOTED += \
+"ADS1118\ADS1118.obj" 
+
+C_DEPS__QUOTED += \
+"ADS1118\ADS1118.d" 
+
+C_SRCS__QUOTED += \
+"../ADS1118/ADS1118.c" 
+
+

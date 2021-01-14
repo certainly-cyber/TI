@@ -1,0 +1,141 @@
+
+**** Build of configuration Debug for project test1 ****
+
+"D:\\ccs\\utils\\bin\\gmake" -k -j 8 all -O 
+ 
+Building file: "../main.c"
+Invoking: MSP430 Compiler
+"D:/ccs/tools/compiler/ti-cgt-msp430_20.2.1.LTS/bin/cl430" -vmsp --use_hw_mpy=none --include_path="D:/ccs/ccs_base/msp430/include" --include_path="D:/msp430工作�?/test1" --include_path="D:/ccs/tools/compiler/ti-cgt-msp430_20.2.1.LTS/include" --advice:power=all --define=__MSP430G2553__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+Finished building: "../main.c"
+ 
+Building target: "test1.out"
+Invoking: MSP430 Linker
+"D:/ccs/tools/compiler/ti-cgt-msp430_20.2.1.LTS/bin/cl430" -vmsp --use_hw_mpy=none --advice:power=all --define=__MSP430G2553__ -g --printf_support=minimal --diag_warning=225 --diag_wrap=off --display_error_number -z -m"test1.map" --heap_size=80 --stack_size=80 -i"D:/ccs/ccs_base/msp430/include" -i"D:/ccs/tools/compiler/ti-cgt-msp430_20.2.1.LTS/lib" -i"D:/ccs/tools/compiler/ti-cgt-msp430_20.2.1.LTS/include" --reread_libs --diag_wrap=off --display_error_number --warn_sections --xml_link_info="test1_linkInfo.xml" --use_hw_mpy=none --rom_model -o "test1.out" "./main.obj" "../lnk_msp430g2553.cmd"  -llibc.a 
+<Linking>
+remark #10371-D: (ULP 1.1) Detected no uses of low power mode state changing instructions
+remark #10372-D: (ULP 4.1) Detected uninitialized Port 2 in this project. Recommend initializing all unused ports to eliminate wasted current consumption on unused pins.
+remark #10372-D: (ULP 4.1) Detected uninitialized Port 3 in this project. Recommend initializing all unused ports to eliminate wasted current consumption on unused pins.
+Finished building target: "test1.out"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project test1 ****
+
+"D:\\ccs\\utils\\bin\\gmake" -k -j 8 all -O 
+ 
+gmake[1]: 'test1.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project test1 ****
+
+"D:\\ccs\\utils\\bin\\gmake" -k -j 8 all -O 
+ 
+gmake[1]: 'test1.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project test1 ****
+
+"D:\\ccs\\utils\\bin\\gmake" -k -j 8 all -O 
+ 
+gmake[1]: 'test1.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project test1 ****
+
+"D:\\ccs\\utils\\bin\\gmake" -k -j 8 all -O 
+ 
+gmake[1]: 'test1.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project test1 ****
+
+"D:\\ccs\\utils\\bin\\gmake" -k -j 8 all -O 
+ 
+gmake[1]: 'test1.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project test1 ****
+
+"D:\\ccs\\utils\\bin\\gmake" -k -j 8 all -O 
+ 
+gmake[1]: 'test1.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project test1 ****
+
+"D:\\ccs\\utils\\bin\\gmake" -k -j 8 all -O 
+ 
+gmake[1]: 'test1.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project test1 ****
+
+"D:\\ccs\\utils\\bin\\gmake" -k -j 8 all -O 
+ 
+gmake[1]: 'test1.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project test1 ****
+
+"D:\\ccs\\utils\\bin\\gmake" -k -j 8 all -O 
+ 
+gmake[1]: 'test1.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project test1 ****
+
+"D:\\ccs\\utils\\bin\\gmake" -k -j 8 all -O 
+ 
+gmake[1]: 'test1.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project test1 ****
+
+"D:\\ccs\\utils\\bin\\gmake" -k -j 8 all -O 
+ 
+gmake[1]: 'test1.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project test1 ****
+
+"D:\\ccs\\utils\\bin\\gmake" -k -j 8 all -O 
+ 
+gmake[1]: 'test1.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project test1 ****
+
+"D:\\ccs\\utils\\bin\\gmake" -k -j 8 all -O 
+ 
+gmake[1]: 'test1.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project test1 ****
+
+"D:\\ccs\\utils\\bin\\gmake" -k -j 8 all -O 
+ 
+gmake[1]: 'test1.out' is up to date.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project test1 ****
+
+"D:\\ccs\\utils\\bin\\gmake" -k -j 8 all -O 
+ 
+gmake[1]: 'test1.out' is up to date.
+
+**** Build Finished ****

@@ -1,0 +1,101 @@
+# FIXED
+
+encoder.obj: ../encoder.c
+encoder.obj: D:/Users/asus/workspace_v9/CAPTURE/driverlib/driverlib.h
+encoder.obj: D:/Users/asus/workspace_v9/CAPTURE/driverlib/adc14.h
+encoder.obj: E:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/stdint.h
+encoder.obj: E:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/_stdint40.h
+encoder.obj: E:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/sys/stdint.h
+encoder.obj: E:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/sys/cdefs.h
+encoder.obj: E:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/sys/_types.h
+encoder.obj: E:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/machine/_types.h
+encoder.obj: E:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/machine/_stdint.h
+encoder.obj: E:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/sys/_stdint.h
+encoder.obj: E:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/stdbool.h
+encoder.obj: E:/ti/ccs930/ccs/ccs_base/arm/include/msp.h
+encoder.obj: E:/ti/ccs930/ccs/ccs_base/arm/include/msp432p401r.h
+encoder.obj: E:/ti/ccs930/ccs/ccs_base/arm/include/msp_compatibility.h
+encoder.obj: E:/ti/ccs930/ccs/ccs_base/arm/include/msp432p401r_classic.h
+encoder.obj: E:/ti/ccs930/ccs/ccs_base/arm/include/CMSIS/core_cm4.h
+encoder.obj: E:/ti/ccs930/ccs/ccs_base/arm/include/CMSIS/cmsis_compiler.h
+encoder.obj: E:/ti/ccs930/ccs/ccs_base/arm/include/CMSIS/cmsis_ccs.h
+encoder.obj: E:/ti/ccs930/ccs/ccs_base/arm/include/system_msp432p401r.h
+encoder.obj: D:/Users/asus/workspace_v9/CAPTURE/driverlib/aes256.h
+encoder.obj: D:/Users/asus/workspace_v9/CAPTURE/driverlib/comp_e.h
+encoder.obj: D:/Users/asus/workspace_v9/CAPTURE/driverlib/cpu.h
+encoder.obj: D:/Users/asus/workspace_v9/CAPTURE/driverlib/crc32.h
+encoder.obj: D:/Users/asus/workspace_v9/CAPTURE/driverlib/cs.h
+encoder.obj: D:/Users/asus/workspace_v9/CAPTURE/driverlib/dma.h
+encoder.obj: D:/Users/asus/workspace_v9/CAPTURE/driverlib/interrupt.h
+encoder.obj: D:/Users/asus/workspace_v9/CAPTURE/driverlib/eusci.h
+encoder.obj: D:/Users/asus/workspace_v9/CAPTURE/driverlib/fpu.h
+encoder.obj: D:/Users/asus/workspace_v9/CAPTURE/driverlib/gpio.h
+encoder.obj: D:/Users/asus/workspace_v9/CAPTURE/driverlib/i2c.h
+encoder.obj: D:/Users/asus/workspace_v9/CAPTURE/driverlib/mpu.h
+encoder.obj: D:/Users/asus/workspace_v9/CAPTURE/driverlib/pcm.h
+encoder.obj: D:/Users/asus/workspace_v9/CAPTURE/driverlib/pmap.h
+encoder.obj: D:/Users/asus/workspace_v9/CAPTURE/driverlib/pss.h
+encoder.obj: D:/Users/asus/workspace_v9/CAPTURE/driverlib/ref_a.h
+encoder.obj: D:/Users/asus/workspace_v9/CAPTURE/driverlib/reset.h
+encoder.obj: D:/Users/asus/workspace_v9/CAPTURE/driverlib/rom.h
+encoder.obj: D:/Users/asus/workspace_v9/CAPTURE/driverlib/rom_map.h
+encoder.obj: D:/Users/asus/workspace_v9/CAPTURE/driverlib/rtc_c.h
+encoder.obj: D:/Users/asus/workspace_v9/CAPTURE/driverlib/spi.h
+encoder.obj: D:/Users/asus/workspace_v9/CAPTURE/driverlib/systick.h
+encoder.obj: D:/Users/asus/workspace_v9/CAPTURE/driverlib/timer32.h
+encoder.obj: D:/Users/asus/workspace_v9/CAPTURE/driverlib/timer_a.h
+encoder.obj: D:/Users/asus/workspace_v9/CAPTURE/driverlib/uart.h
+encoder.obj: D:/Users/asus/workspace_v9/CAPTURE/driverlib/wdt_a.h
+encoder.obj: D:/Users/asus/workspace_v9/CAPTURE/driverlib/sysctl.h
+encoder.obj: D:/Users/asus/workspace_v9/CAPTURE/driverlib/flash.h
+encoder.obj: D:/Users/asus/workspace_v9/CAPTURE/printf.h
+
+../encoder.c: 
+D:/Users/asus/workspace_v9/CAPTURE/driverlib/driverlib.h: 
+D:/Users/asus/workspace_v9/CAPTURE/driverlib/adc14.h: 
+E:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/stdint.h: 
+E:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/_stdint40.h: 
+E:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/sys/stdint.h: 
+E:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/sys/cdefs.h: 
+E:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/sys/_types.h: 
+E:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/machine/_types.h: 
+E:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/machine/_stdint.h: 
+E:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/sys/_stdint.h: 
+E:/ti/ccs930/ccs/tools/compiler/ti-cgt-arm_18.12.4.LTS/include/stdbool.h: 
+E:/ti/ccs930/ccs/ccs_base/arm/include/msp.h: 
+E:/ti/ccs930/ccs/ccs_base/arm/include/msp432p401r.h: 
+E:/ti/ccs930/ccs/ccs_base/arm/include/msp_compatibility.h: 
+E:/ti/ccs930/ccs/ccs_base/arm/include/msp432p401r_classic.h: 
+E:/ti/ccs930/ccs/ccs_base/arm/include/CMSIS/core_cm4.h: 
+E:/ti/ccs930/ccs/ccs_base/arm/include/CMSIS/cmsis_compiler.h: 
+E:/ti/ccs930/ccs/ccs_base/arm/include/CMSIS/cmsis_ccs.h: 
+E:/ti/ccs930/ccs/ccs_base/arm/include/system_msp432p401r.h: 
+D:/Users/asus/workspace_v9/CAPTURE/driverlib/aes256.h: 
+D:/Users/asus/workspace_v9/CAPTURE/driverlib/comp_e.h: 
+D:/Users/asus/workspace_v9/CAPTURE/driverlib/cpu.h: 
+D:/Users/asus/workspace_v9/CAPTURE/driverlib/crc32.h: 
+D:/Users/asus/workspace_v9/CAPTURE/driverlib/cs.h: 
+D:/Users/asus/workspace_v9/CAPTURE/driverlib/dma.h: 
+D:/Users/asus/workspace_v9/CAPTURE/driverlib/interrupt.h: 
+D:/Users/asus/workspace_v9/CAPTURE/driverlib/eusci.h: 
+D:/Users/asus/workspace_v9/CAPTURE/driverlib/fpu.h: 
+D:/Users/asus/workspace_v9/CAPTURE/driverlib/gpio.h: 
+D:/Users/asus/workspace_v9/CAPTURE/driverlib/i2c.h: 
+D:/Users/asus/workspace_v9/CAPTURE/driverlib/mpu.h: 
+D:/Users/asus/workspace_v9/CAPTURE/driverlib/pcm.h: 
+D:/Users/asus/workspace_v9/CAPTURE/driverlib/pmap.h: 
+D:/Users/asus/workspace_v9/CAPTURE/driverlib/pss.h: 
+D:/Users/asus/workspace_v9/CAPTURE/driverlib/ref_a.h: 
+D:/Users/asus/workspace_v9/CAPTURE/driverlib/reset.h: 
+D:/Users/asus/workspace_v9/CAPTURE/driverlib/rom.h: 
+D:/Users/asus/workspace_v9/CAPTURE/driverlib/rom_map.h: 
+D:/Users/asus/workspace_v9/CAPTURE/driverlib/rtc_c.h: 
+D:/Users/asus/workspace_v9/CAPTURE/driverlib/spi.h: 
+D:/Users/asus/workspace_v9/CAPTURE/driverlib/systick.h: 
+D:/Users/asus/workspace_v9/CAPTURE/driverlib/timer32.h: 
+D:/Users/asus/workspace_v9/CAPTURE/driverlib/timer_a.h: 
+D:/Users/asus/workspace_v9/CAPTURE/driverlib/uart.h: 
+D:/Users/asus/workspace_v9/CAPTURE/driverlib/wdt_a.h: 
+D:/Users/asus/workspace_v9/CAPTURE/driverlib/sysctl.h: 
+D:/Users/asus/workspace_v9/CAPTURE/driverlib/flash.h: 
+D:/Users/asus/workspace_v9/CAPTURE/printf.h: 
